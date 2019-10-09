@@ -1,0 +1,3 @@
+C:/Users/fabia/CLionProjects/Ficha-2-Ejercicio11/cmake-build-debug/CMakeFiles/Ficha_2_Ejercicio11.dir
+C:/Users/fabia/CLionProjects/Ficha-2-Ejercicio11/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fabia/CLionProjects/Ficha-2-Ejercicio11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
